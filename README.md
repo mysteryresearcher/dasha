@@ -33,5 +33,4 @@ PYTHONPATH=./code python3 ./code/distributed_optimization_library/experiments/pl
 --output_path SOME_PATH_FOR_PLOTS
 ````
 
-One can find all other scripts that generate experiments from the paper
-[here](https://github.com/mysteryresearcher/dasha/blob/ac7d0dce798898fb6255e7c0ab181def8ac88f48/code/distributed_optimization_library/experiments/plots/zero_marina/script.txt#L1).
+One can find all other scripts [here](https://github.com/mysteryresearcher/dasha/blob/ac7d0dce798898fb6255e7c0ab181def8ac88f48/code/distributed_optimization_library/experiments/plots/zero_marina/script.txt#L1) that generate experiments from the paper.
