@@ -1,4 +1,4 @@
-# DASHA: A Distributed Method for Nonconvex Problems with Compression and Optimal Oracle Complexity
+# DASHA: Distributed Nonconvex Optimization with Communication Compression, Optimal Oracle Complexity and Without Client Synchronization
 This repository provides the code to reproduce the experiments of the submission for The Thirty-ninth International Conference on Machine Learning (ICML 2022)
 
 ## Quick Start
