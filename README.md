@@ -1,5 +1,4 @@
 # DASHA: Distributed Nonconvex Optimization with Communication Compression, Optimal Oracle Complexity and Without Client Synchronization
-This repository provides the code to reproduce the experiments of the submission for The Thirty-ninth International Conference on Machine Learning (ICML 2022)
 
 ## Quick Start
 ### 1. Install [Singularity](https://sylabs.io/guides/3.5/user-guide/introduction.html) (optional)
